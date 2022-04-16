@@ -1,0 +1,16 @@
+# ninja log v5
+0	423	1650122818621542024	CMakeFiles/pc_simulator.dir/cpu.cpp.o	2dea716bdb9b3671
+2	433	1650119684629318229	CMakeFiles/pc_simulator.dir/kbd.cpp.o	de5b13a7448069a6
+1	463	1650126238476845844	CMakeFiles/pc_simulator.dir/disk.cpp.o	5d6493df0729428d
+463	563	1650126238572847174	pc_simulator	45f9c5c506cf06b5
+1	479	1650125707985514671	CMakeFiles/pc_simulator.dir/main.cpp.o	bc00584bda82a1b
+2	415	1650125707921513789	CMakeFiles/pc_simulator.dir/ram.cpp.o	5d5ea9bf3cddd8a6
+1	458	1650122495860752080	CMakeFiles/pc_simulator.dir/gpu.cpp.o	a8a51470adee6a78
+0	27	1650126620898828458	build.ninja	6ee5f2ba11e78682
+1	473	1650126621382836784	CMakeFiles/pc_simulator.dir/gpu/gpu.cpp.o	d16ef6f0d5f9d7ea
+1	478	1650126621386836853	CMakeFiles/pc_simulator.dir/kbd/kbd.cpp.o	6c56b5ca54b632c5
+1	508	1650126621418837404	CMakeFiles/pc_simulator.dir/main.cpp.o	bc00584bda82a1b
+2	511	1650126621422837472	CMakeFiles/pc_simulator.dir/disk/disk.cpp.o	6298ba2f5430e40a
+1	513	1650126621422837472	CMakeFiles/pc_simulator.dir/cpu/cpu.cpp.o	236a11713f806470
+2	514	1650126621422837472	CMakeFiles/pc_simulator.dir/ram/ram.cpp.o	98db6b464187c8e2
+514	587	1650126621494838711	pc_simulator	304fe7290327a29b
